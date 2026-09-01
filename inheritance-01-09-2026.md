@@ -5,7 +5,7 @@
 
 ## 1. What is Inheritance?
 
-Inheritance is a mechanism by which a new class (the **derived class** / **child class**) acquires the members (fields and methods) of an existing class (the **base class** / **parent class**), and can add or override behaviour on top of it.
+Inheritance is a mechanism by which a new class (the **child class** / **sub class**) acquires the members (fields and methods) of an existing class (the **parent class** / **super class**), and can add or override behaviour on top of it.
 
 Syntax:
 
